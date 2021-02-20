@@ -1,0 +1,33 @@
+body{
+    background: purple;
+   font-family:sans-serif;
+}
+div{
+ text-align: justify;
+}
+.wrap{
+    width:800px;
+    margin: auto;
+    margin-right: 0;
+    
+}
+blockquote{
+    border: 1px solid white;
+    margin-left:0;
+    padding-left: 10px;
+
+}
+h2{;
+    text-decoration: underline;
+}
+footer{
+    text-align: center;
+}
+
+ul a:hover{
+    color: blue;
+}
+
+ 
+
+
